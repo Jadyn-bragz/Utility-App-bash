@@ -18,7 +18,7 @@
 
 >A utility app is a software tool designed to perform a specific task or a set of related tasks to enhance the functionality of an operating system. In Linux, utility apps are a crucial part of the system as they help to manage various system functions.
 
-## Tech[subject to change]
+## Tools Used
 ### - Zenity
 Zenity is a utility app for Linux that allows users to create graphical user interface (GUI) dialogs and windows using simple shell scripts. It is a part of the GNOME desktop environment and is based on the GTK+ toolkit.
 Zenity provides a set of dialog boxes, such as message boxes, input boxes, file selection boxes, and progress bars, that can be easily integrated into shell scripts. This makes it easy for developers and system administrators to create simple GUIs for their applications or scripts without having to learn complex programming languages or libraries.
@@ -59,7 +59,6 @@ Now to run your main file
 ```
 Alternatively,
 Simply write
-```sh mos.bash```
-in your terminal to run the application
+```sh mos.bash```in your terminal to run the application
 
 
