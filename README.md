@@ -28,7 +28,12 @@ Zenity provides a set of dialog boxes, such as message boxes, input boxes, file 
 This Application uses a number of simple bash script files to work properly:
  
 - [mos.bash]- main script
-- fill in the names of scripts
+- [MyCollege.sh]
+- [jadynshortcuts.sh]
+- [weather_forecast.sh]
+- [cpu.sh]
+- [file_permissions.sh]
+- [lamp_installer3.sh]
 
 
 ## Installation
